@@ -1,0 +1,7 @@
+[2025-08-27 19:07:33] Starting the logging process.
+[2025-08-27 19:07:34] Log entry 1
+[2025-08-27 19:07:35] Log entry 2
+[2025-08-27 19:07:36] Log entry 3
+[2025-08-27 19:07:37] Log entry 4
+[2025-08-27 19:07:38] Log entry 5
+[2025-08-27 19:07:38] Logging process completed.
